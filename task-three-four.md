@@ -36,5 +36,6 @@ The second one will house descriptive text regarding the weather, with the follo
 **Assuming you want to deploy an automated solution for task#2 in a cloud setup to be available to an end user via a BI platform. Give a short high level description of a possible approach and some considerations that would affect your choices.**
 
 I have yet to gain experience on data warehousing, data pipelines, cloud storage, and BI platforms. As of now they are simply abstract concepts to me, but from what I can gather from my own research, setting up a data pipeline to automate Task #2 may depend on several considerations. Generally, the two things below are surely on the top considerations.
-• Cost: Storing data on cloud is costly. The choice for the cloud must also take into account running or storage costs.
-• Efficiency: Related to cost, some cloud storages allow for fast download, but at a cost. The download speed and cost must be balanced to achieve optimum balance within budget.
+
+* Cost: Storing data on cloud is costly. The choice for the cloud must also take into account running or storage costs.
+* Efficiency: Related to cost, some cloud storages allow for fast download, but at a cost. The download speed and cost must be balanced to achieve optimum balance within budget.
